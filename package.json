@@ -19,12 +19,12 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
-    "express-useragent": "^0.2.4",
+    "express-useragent": "^1.0.12",
     "redis": "^2.6.0-1"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "supertest": "^1.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
   }
 }
